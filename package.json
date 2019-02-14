@@ -1,0 +1,15 @@
+}
+"deprecated": false,
+"description": "TypeScript definitions for socketio-jwt",
+"homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+"license": "MIT",
+"main": "",
+"name": "@types/socketio-jwt",
+"repository": {
+"type": "git",
+"url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+},
+"scripts": {},
+"typeScriptVersion": "2.3",
+"types": "index"
+}
