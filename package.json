@@ -1,15 +1,19 @@
-}
-"deprecated": false,
-"description": "TypeScript definitions for socketio-jwt",
-"homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
-"license": "MIT",
-"main": "",
-"name": "@types/socketio-jwt",
-"repository": {
-"type": "git",
-"url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
-},
-"scripts": {},
-"typeScriptVersion": "2.3",
-"types": "index"
+{
+  "name": "@types/socketio-jwt",
+  "version": "1.0.0",
+  "description": "Fixed types from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/socketio-jwt",
+  "main": "index.js",
+  "scripts": {},
+  "typeScriptVersion": "2.3",
+  "types": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplyServers/socketio-jwt-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimplyServers/socketio-jwt-types/issues"
+  },
+  "homepage": "https://github.com/SimplyServers/socketio-jwt-types#readme"
 }
